@@ -1,0 +1,72 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    font-family: 'Muli', sans-serif;
+}
+
+#bootstrap-overrides a {
+    color: black;
+    text-decoration: none;
+}
+
+#bootstrap-overrides a:hover {
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.my-header {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.about-me {
+    text-align: center;
+    background-color: lightseagreen;
+}
+
+p.about-me {
+    text-align: left;
+}
+
+.projects {
+    margin: 5vmin 2.5vmin;
+}
+
+.portfolio-nav {
+    background-color: lightgray;
+}
+
+.mime-sweeper {
+    background-image: url(https://i.imgur.com/qUym0PU.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vmin;
+    width: 550vmin;
+}
+
+.ffst {
+    background-image: url(https://i.imgur.com/zvlHlLq.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+    height: 30vmin;
+    width: 550vmin;
+}
+
+.pugs {
+    background-image: url(https://i.imgur.com/U4NpSxu.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vmin;
+    width: 550vmin;
+}
+
+.ss-farms {
+    background-image: url(https://i.imgur.com/YeWJQ5f.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 30vmin;
+    width: 550vmin;
+}
+
