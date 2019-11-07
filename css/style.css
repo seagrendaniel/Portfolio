@@ -43,6 +43,7 @@ p.about-me {
     background-repeat: no-repeat;
     height: 30vmin;
     width: 550vmin;
+    margin: 1vmin 0;
 }
 
 .ffst {
@@ -52,6 +53,7 @@ p.about-me {
     justify-content: center;
     height: 30vmin;
     width: 550vmin;
+    margin: 1vmin 0;
 }
 
 .pugs {
@@ -60,6 +62,7 @@ p.about-me {
     background-repeat: no-repeat;
     height: 30vmin;
     width: 550vmin;
+    margin: 1vmin 0;
 }
 
 .ss-farms {
@@ -68,5 +71,6 @@ p.about-me {
     background-repeat: no-repeat;
     height: 30vmin;
     width: 550vmin;
+    margin: 1vmin 0;
 }
 
