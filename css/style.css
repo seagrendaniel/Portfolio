@@ -2,7 +2,7 @@ body {
     height: 100vh;
     width: 100vw;
     font-family: 'Muli', sans-serif;
-    background-color: #AB2F52;
+    background-color: #E55D4A;
 
 }
 
@@ -17,14 +17,31 @@ body {
     border-radius: 5px;
 }
 
+.top-header {
+    display: flex;
+    flex-direction: column;
+}
+
 .my-header {
     text-align: center;
     background-color: #E88554;
+    padding-bottom: 4vmin;
 }
 
 .about-me {
     text-align: center;
-    background-color: #DFC7C1;
+    background-color: #AB2F52;
+    margin: 0 auto;
+    width: 75vw;
+    height: auto;
+}
+
+#about-text {
+    text-align: left;
+}
+
+.about-header {
+    margin: 0 auto;
 }
 
 p.about-me {
