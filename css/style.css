@@ -2,6 +2,8 @@ body {
     height: 100vh;
     width: 100vw;
     font-family: 'Muli', sans-serif;
+    background-color: #AB2F52;
+
 }
 
 #bootstrap-overrides a {
@@ -11,18 +13,18 @@ body {
 
 #bootstrap-overrides a:hover {
     color: white;
-    background-color: black;
+    background-color: #FFAF53;
     border-radius: 5px;
 }
 
 .my-header {
     text-align: center;
-    background-color: lightblue;
+    background-color: #E88554;
 }
 
 .about-me {
     text-align: center;
-    background-color: lightseagreen;
+    background-color: #DFC7C1;
 }
 
 p.about-me {
@@ -34,7 +36,7 @@ p.about-me {
 }
 
 .portfolio-nav {
-    background-color: lightgray;
+    background-color: #E88554;
 }
 
 .mime-sweeper {
@@ -73,4 +75,3 @@ p.about-me {
     width: 550vmin;
     margin: 1vmin 0;
 }
-
